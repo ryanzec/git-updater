@@ -1,0 +1,11 @@
+#Python Compiled Files
+*.pyc
+
+#Mac OS X Files
+.DS_Store
+
+#Common Backup Files
+#*#
+*~
+*.bk
+*.orig
